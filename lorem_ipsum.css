@@ -1,0 +1,25 @@
+a {
+    color: #fa8232;
+    text-decoration: none;
+}
+
+nav a {
+    font-variant: small-caps;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+table {
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+}
+
+th {
+    border-bottom: 1px solid darkgray;
+}
+
+td.row-header {
+    font-weight: bold;
+}
